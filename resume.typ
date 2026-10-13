@@ -14,13 +14,13 @@
   // All the lines below are optional.
   // For example, if you want to to hide your phone number:
   // feel free to comment those lines out and they will not show.
-  location: location,
+//  location: location,
   email: email,
   github: github,
   linkedin: linkedin,
   phone: phone,
   personal-site: personal-site,
-  accent-color: "#26428b",
+  accent-color: "#26489a",
   font: "New Computer Modern",
   paper: "us-letter",
   author-position: left,
@@ -60,16 +60,16 @@
   company: "OnManorama",
   dates: dates-helper(start-date: "May 2024", end-date: "July 2024"),
 )
-- Wrote technical guides geared towards people in the 50s
-- Held interviews over calls regards events deemed newsworthy
-- Reported real-time news regarding a rescue operation in Mangaf, Kuwait, from 3700 kilometers away, collaborating with Embassy officials and Kerala diaspora representatives
+- Wrote technical guides geared towards people in their 50s.
+- Held interviews over calls regards events deemed newsworthy.
+- Reported real-time news regarding a rescue operation in Mangaf, Kuwait, from 3700 kilometers away, collaborating with Embassy officials and representatives of the Malayali diaspora in Kuwait.
 
 #work(
   title: "IT Operations & Support / AI Pilot Task Delivery",
   company: "Mindrift",
   dates: dates-helper(start-date: "November 2025", end-date: "Janurary 2026"),
 )
-- An independent contractor, I was generally given tasks that involve supervised fine-tuning
+- An independent contractor, I was generally given tasks that involved supervised fine-tuning
 == Projects
 
 #project(
@@ -120,8 +120,12 @@
 == Skills
 - *Programming Languages*: Python, C/C++, HTML/CSS, Java, Bash, R, Nix, LISP
 - *Technologies*: UNIX, Docker, LoRA / QLoRA, Supervised fine-tuning
-- *Tools*: Tailscale, HUGO, Pymol, nltk (Python), Typst, AntCONC, PRAAT, ProMod3
-- *Fields*: Computational Linguistics, Forensic Linguistics, Phonology, Semantics, Computational Biology
+- *Tools*: Tailscale, HUGO, nltk (Python), Typst, AntCONC, PRAAT, ProMod3
+- *Fields*: Computational Linguistics, Forensic Linguistics, Phonology, Semantics
+
+== Interests
+
+- FOSS, Self-hosting, Optimality Theory, Epiphenomenalism, Neurological study of Psychedelics
 
 == Languages
 - English, Malayalam, Tamil, Hindi, French
